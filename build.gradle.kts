@@ -64,7 +64,7 @@ val shadowMe: Configuration by configurations.creating {
 }
 
 dependencies {
-    annotationProcessor("org.spongepowered:mixin:0.7.11-SNAPSHOT")
+    annotationProcessor("org.spongepowered:mixin:0.8.5-SNAPSHOT")
     implementation("org.spongepowered:mixin:0.7.11-SNAPSHOT")
 
     shadowMe("gg.essential:loader-launchwrapper:1.1.2")
