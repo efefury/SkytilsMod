@@ -24,7 +24,7 @@ import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 plugins {
     kotlin("jvm") version "1.6.0"
     id("net.minecraftforge.gradle.forge") version "6f5327"
-    id("com.github.johnrengelman.shadow") version "6.1.0"
+    id("com.github.johnrengelman.shadow") version "7.1.1"
     id("org.spongepowered.mixin") version "d5f9873d60"
     java
 }
